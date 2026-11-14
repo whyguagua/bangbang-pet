@@ -4,6 +4,16 @@
 
 基于 Electron 33 编写，Windows 专用（依赖 Win32 的 `EnumWindows` / DWM 接口）。
 
+## 下载（Windows 版）
+
+**[⬇️ 下载 邦邦桌宠 v3.0.0 · Windows x64（约 112 MB）](https://github.com/whyguagua/bangbang-pet/releases/latest)**
+
+解压到任意目录 → 双击 `邦邦桌宠.exe`，绿色版免安装（配置存在 `%APPDATA%\邦邦桌宠\config.json`，删掉即恢复默认）。
+
+> 打包好的 exe 有 188 MB（里面绝大部分是 Electron 运行时），超过 GitHub 单文件 100 MB 的限制，所以放在 Release 附件里，不进仓库。
+> 想自己编译 / 改代码，见下面的「运行」和「打包」两节。
+
+
 ## 功能
 
 **三个角色各自的设置**（右键点任意一个角色）
