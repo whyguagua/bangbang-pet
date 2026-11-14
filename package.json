@@ -1,0 +1,19 @@
+{
+  "name": "bangbang-pet",
+  "productName": "邦邦桌宠",
+  "version": "3.0.0",
+  "description": "邦邦桌宠：千早爱音/长崎素世/丰川祥子三个角色同框的桌面宠物，各自独立设置，带物理引擎（重力+弹跳）。",
+  "main": "main.js",
+  "author": "why",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "test": "node test/run.js",
+    "test:syntax": "node test/syntax.js",
+    "pack": "powershell -ExecutionPolicy Bypass -File pack.ps1"
+  },
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "omggif": "^1.0.10"
+  }
+}

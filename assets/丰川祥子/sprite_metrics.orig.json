@@ -1,0 +1,80 @@
+{
+  "01-思考.gif": {
+    "top": 0,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "02-哒咩.gif": {
+    "top": 0,
+    "bottom": 10,
+    "left": 0,
+    "right": 10
+  },
+  "03-睡觉.gif": {
+    "top": 60,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "04-wink.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "05-写字.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "06-疑惑.gif": {
+    "top": 10,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "07-按按钮.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "08-张望.gif": {
+    "top": 120,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "09-开心.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "10-默认.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "11-爱心.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "12-沮丧.gif": {
+    "top": 120,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  },
+  "13-尴尬.gif": {
+    "top": 70,
+    "bottom": 10,
+    "left": 20,
+    "right": 10
+  }
+}
